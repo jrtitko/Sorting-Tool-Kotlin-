@@ -1,0 +1,29 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4603#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 7. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    abc
+    equals
+    cde
+    Correct output:
+    false
+
+    Your code output:
+    Unknown
+  time: "Sat, 15 Apr 2023 14:42:46 UTC"
+record: -1
+submission_language: kotlin

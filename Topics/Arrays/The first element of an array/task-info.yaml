@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: array.first()
+- text: "array[array.lastIndex]"
+- text: "array[0]"
+- text: "array[1]"
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4574#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 15 Apr 2023 21:05:18 UTC"
+record: -1
+selected_options:
+- 0
+- 2
+local_check: false

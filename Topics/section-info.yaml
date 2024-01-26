@@ -1,0 +1,41 @@
+content:
+- Introduction to Kotlin
+- Overview of the basic program
+- Values and variables
+- Standard output
+- Invoking functions
+- Standard input with Java Scanner
+- Reading data with a readln
+- String basics
+- String templates
+- Boolean and logical operations
+- Integers in action
+- Relational operators
+- If expression
+- Repeating blocks
+- While loops
+- Ranges
+- When expression
+- For loop and ranges
+- Jumps and returns
+- Comments
+- Declaring functions
+- Characters
+- Working with strings
+- Arrays
+- String arrays
+- The main() function
+- Floating-point types
+- Data types
+- Introduction to MutableList
+- Work with MutableLists
+- List
+- Map
+- Mutable Map
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- Lambda expressions
+- Multi-dimensional list

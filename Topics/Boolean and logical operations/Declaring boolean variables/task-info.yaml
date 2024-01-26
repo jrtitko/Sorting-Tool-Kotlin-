@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: val b = &#x27;f&#x27;;
+- text: val b = false
+- text: val b = &quot;false&quot;
+- text: val b = &#x27;t&#x27;
+- text: val b = true
+- text: val b = &quot;true&quot;
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4517#comment
+status: Solved
+record: -1
+local_check: false

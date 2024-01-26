@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "// This is the totalLembas() function. It just counts the total number of\
+    \ lembas. \n// Do not change this code\nfun totalLembas(first: String, second:\
+    \ String) {\n    print(first.toInt() + second.toInt())\n}\n\nfun main() {\n  \
+    \  val breadFromFrodo = readln()\n    val breadFromSam = readln()\n\n    // write\
+    \ your code here\n\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19913#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 14 Apr 2023 13:17:50 UTC"
+record: -1
+submission_language: kotlin
